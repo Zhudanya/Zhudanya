@@ -33,36 +33,6 @@
 
 ---
 
-### 🔥 What I'm Working On
-
-| Project | Description |
-|---------|-------------|
-| 🎰 **P1 Game Server** | Go microservice game server (15 services, ECS architecture) |
-| 🎮 **Freelife Client** | Unity 2022 LTS client with 4-layer architecture |
-| 🤖 **Harness Engineering** | Complete AI agent development environment ([open sourced](https://github.com/Zhudanya/harness-engineering)) |
-| 🔌 **Unity MCP** | AI-Unity bridge via Model Context Protocol |
-
----
-
-### 🏆 Harness Engineering
-
-> *"Don't just use AI to write code — build the environment that makes AI write **reliable** code."*
-
-I built a complete **Harness Engineering** system for a production game project:
-
-- ✅ **9 Rules** constraining AI agent behavior (constitution, golden principles, architecture boundaries)
-- ✅ **8 Commands** for automated workflows (verify, review, reproduce-bug)
-- ✅ **4 Git Hooks** for mechanical enforcement (pre-commit, push-gate)
-- ✅ **Robot Testing** — real RPC integration tests, not mocks
-- ✅ **traceId** — cross-service request tracing
-- ✅ **Auto Bug Reproduction** — AI agent finds bugs autonomously
-
-**Result:** Verification time from 5-10 min (manual) → 30 sec (automated)
-
-📦 [Check out the full Harness Engineering config →](https://github.com/Zhudanya/harness-engineering)
-
----
-
 ### 🐍 Contribution Graph
 
 <div align="center">
