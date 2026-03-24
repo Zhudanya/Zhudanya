@@ -3,10 +3,6 @@
 <!-- 打字动画 -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Zhudanya;Game+Dev+%7C+Go+Backend+%7C+AI+Agents;Building+smarter+games+with+AI" alt="Typing SVG" /></a>
 
-<br/>
-
-<!-- 编程动图 -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 
 </div>
 
@@ -64,16 +60,6 @@ I built a complete **Harness Engineering** system for a production game project:
 **Result:** Verification time from 5-10 min (manual) → 30 sec (automated)
 
 📦 [Check out the full Harness Engineering config →](https://github.com/Zhudanya/harness-engineering)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhudanya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="420" />
-
-</div>
 
 ---
 
