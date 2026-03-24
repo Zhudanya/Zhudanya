@@ -23,16 +23,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=go,cs,unity,python,rust,redis,docker,git,linux&theme=dark" />
-
-</div>
-
----
-
 ### 🐍 Contribution Graph
 
 <div align="center">
@@ -42,6 +32,16 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zhudanya/Zhudanya/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Zhudanya/Zhudanya/output/github-contribution-grid-snake.svg" />
 </picture>
+
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,cs,unity,python,rust,redis,docker,git,linux&theme=dark" />
 
 </div>
 
