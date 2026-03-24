@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 打字动画 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Zhudanya;Game+Dev+%7C+Go+Backend+%7C+AI+Agents;Building+smarter+games+with+AI" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Zhudanyang;Game+Dev+%7C+Go+Backend+%7C+AI+Agents;Building+smarter+games+with+AI" alt="Typing SVG" /></a>
 
 
 </div>
