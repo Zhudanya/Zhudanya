@@ -14,44 +14,6 @@
 
 ---
 
-### About Me
-
-- 🎮 **Game Developer** — Unity Client + Go Microservice Server (life-sim MMO)
-- 🤖 **AI Agent Builder** — Claude Code / MCP / LLM Tooling
-- 🔧 **Harness Engineer** — Making AI agents write reliable code
-- 🏗️ Currently building: **AI-powered game dev pipeline**
-- 📖 Learning: Rust, GraphRAG, AI Agent frameworks
-- 🌏 Based in China
-
----
-
-### Tech Stack
-
-<div align="center">
-
-| Domain | Technologies |
-|--------|-------------|
-| **Game Client** | Unity · C# · UGUI · KCC · ECS patterns |
-| **Game Server** | Go · gRPC · MongoDB · Redis · Protobuf |
-| **AI Tooling** | Claude Code · MCP Servers · Prompt Engineering |
-| **DevOps** | Docker · Linux · Git · CI/CD |
-| **Learning** | Rust · GraphRAG · Agent Frameworks |
-
-</div>
-
----
-
-### What I Do
-
-```
-🎮 Game Dev          Build multiplayer life-sim with Unity + Go microservices
-🤖 Agent Harness     Design skills, rules & tools that make AI agents ship code
-🔧 MCP Servers       Bridge AI agents with Unity Editor, game servers & more
-📐 Architecture      15-service distributed game backend, ECS scene server
-```
-
----
-
 ### Contribution Graph
 
 <div align="center">
